@@ -1,2 +1,4 @@
 requests
 plotly
+kiwipiepy
+wordcloud
